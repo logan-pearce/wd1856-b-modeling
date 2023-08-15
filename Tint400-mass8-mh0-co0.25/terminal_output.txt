@@ -1,0 +1,158 @@
+/Volumes/Oy/picaso/reference/kcoeff_2020/sonora_2020_feh+000_co_025_noTiOVO.data.196
+NOTE: You are loading Opacity tables without any Gaseous TiO and VO opacities
+starting climate run
+Iteration number  0 , min , max temp  330.665066547234 1369.1998466898358 , flux balance  0.13138421342085696
+Iteration number  1 , min , max temp  305.42252537917096 1496.1289821436308 , flux balance  0.10923911853437698
+Iteration number  2 , min , max temp  233.94188953923293 1618.0841957879372 , flux balance  0.081388831136813
+Iteration number  3 , min , max temp  180.5615032276159 1595.5760013438633 , flux balance  0.007432852853005817
+Iteration number  4 , min , max temp  134.11949267054058 1594.496389661105 , flux balance  0.0004667340124351069
+Iteration number  5 , min , max temp  124.52734355455121 1594.493663714622 , flux balance  1.7217616296401612e-05
+ We are already at a root, tolf , test =  5e-05 ,  1.7217616296401612e-05
+Big iteration is  124.52734355455121 0
+Iteration number  0 , min , max temp  138.11310389092026 1607.4181367333506 , flux balance  0.012176653504016198
+Iteration number  1 , min , max temp  149.53498947279658 1639.6552985971337 , flux balance  0.004740598808206645
+Iteration number  2 , min , max temp  139.71467455426972 1637.8924767699202 , flux balance  1.9426779759699416e-05
+Iteration number  3 , min , max temp  148.70299727615523 1637.891859393534 , flux balance  1.799933893600076e-05
+ We are already at a root, tolf , test =  5e-05 ,  4.669126887216047e-05
+Big iteration is  148.70299727615523 1
+Iteration number  0 , min , max temp  150.36926574341481 1642.3547709356333 , flux balance  0.0006884207121718437
+Iteration number  1 , min , max temp  147.62084353996067 1642.320682631577 , flux balance  2.3739709934895954e-06
+ We are already at a root, tolf , test =  5e-05 ,  2.3821989039196544e-06
+Big iteration is  147.62084353996067 2
+Iteration number  0 , min , max temp  144.68182599713572 1642.8173803905288 , flux balance  0.00011014238026074073
+Iteration number  1 , min , max temp  143.98952216677839 1642.8170913837769 , flux balance  1.6126680042973317e-07
+ We are already at a root, tolf , test =  5e-05 ,  2.0354917333670326e-07
+Profile converged
+Iteration number  0 , min , max temp  149.534633009462 1642.8685206048963 , flux balance  2.3979706543571925e-05
+ We are already at a root, tolf , test =  5e-05 ,  2.6347744463688643e-05
+Big iteration is  149.534633009462 0
+Iteration number  0 , min , max temp  147.14231998503493 1642.8687492290578 , flux balance  7.949290872856107e-06
+ We are already at a root, tolf , test =  5e-05 ,  9.357872275027225e-06
+Profile converged
+ convection zone status
+0 87 89 0 0 0
+1
+[ 0 81 81 81 87 89]
+Iteration number  0 , min , max temp  147.69014824825754 1642.835167614814 , flux balance  5.888245801178038e-06
+Iteration number  1 , min , max temp  147.68970439319875 1642.8351574066376 , flux balance  1.962893391301018e-09
+In t_start: Converged Solution in iterations  1
+Big iteration is  147.68970439319875 0
+Iteration number  0 , min , max temp  147.68843121032302 1642.8585311382594 , flux balance  9.114829766878292e-07
+ We are already at a root, tolf , test =  5e-05 ,  1.060526675641741e-06
+Profile converged
+Grow Phase : Upper Zone
+[ 0 80 81 81 87 89]
+Iteration number  0 , min , max temp  147.70240030659068 1642.179260608127 , flux balance  2.1186666163864445e-05
+Iteration number  1 , min , max temp  147.7025044265413 1642.1785616510954 , flux balance  9.76517098633395e-09
+In t_start: Converged Solution in iterations  1
+Big iteration is  147.7025044265413 0
+Iteration number  0 , min , max temp  147.62448799167151 1642.1551442214695 , flux balance  1.193169973918005e-07
+ We are already at a root, tolf , test =  5e-05 ,  9.523995711543854e-07
+Profile converged
+[ 0 79 81 81 87 89]
+Iteration number  0 , min , max temp  147.7266413706604 1640.9824654218583 , flux balance  6.31957215032198e-05
+Iteration number  1 , min , max temp  147.7265380901662 1640.9798084997008 , flux balance  5.390389594951817e-08
+In t_start: Converged Solution in iterations  1
+Big iteration is  147.7265380901662 0
+Iteration number  0 , min , max temp  147.62307791503312 1640.9403634030803 , flux balance  1.4347055104582648e-07
+ We are already at a root, tolf , test =  5e-05 ,  1.2057076663333498e-05
+Profile converged
+[ 0 78 81 81 87 89]
+Iteration number  0 , min , max temp  147.70782607567324 1639.934477019712 , flux balance  8.377364997460146e-05
+Iteration number  1 , min , max temp  147.70775733405193 1639.932568718378 , flux balance  9.806369618658097e-08
+In t_start: Converged Solution in iterations  1
+Big iteration is  147.70775733405193 0
+Iteration number  0 , min , max temp  147.62656816795314 1639.9487707228463 , flux balance  1.261282315633901e-07
+ We are already at a root, tolf , test =  5e-05 ,  2.244694053244033e-05
+Profile converged
+[ 0 77 81 81 87 89]
+Iteration number  0 , min , max temp  135.19096238160498 1639.347550609318 , flux balance  -0.001582844740210522
+Iteration number  1 , min , max temp  52.6 1638.9647382749545 , flux balance  1.5359450528346465e-05
+Iteration number  2 , min , max temp  52.6 1638.9634293162635 , flux balance  -5.228882747733406e-07
+ We are already at a root, tolf , test =  5e-05 ,  1.0038474503605665e-06
+1  points went off the opacity grid. Correcting those.
+Big iteration is  52.6 0
+Iteration number  0 , min , max temp  147.62887914115177 1638.9683115301232 , flux balance  -0.0009057592269456723
+Iteration number  1 , min , max temp  147.59079288873878 1639.0205672809282 , flux balance  8.87105264445475e-08
+ We are already at a root, tolf , test =  5e-05 ,  3.450881008348114e-05
+Profile converged
+[ 0 77 82 82 87 89]
+Iteration number  0 , min , max temp  147.67943350050442 1637.1828932336114 , flux balance  3.973268339289415e-05
+Iteration number  1 , min , max temp  147.65073644611627 1637.1761373389043 , flux balance  9.434506023120564e-08
+ We are already at a root, tolf , test =  5e-05 ,  5.563679475729292e-07
+Big iteration is  147.65073644611627 0
+Iteration number  0 , min , max temp  147.63716074721424 1637.0942376184819 , flux balance  -4.842132063453891e-07
+ We are already at a root, tolf , test =  5e-05 ,  2.3816682283212357e-05
+Profile converged
+[ 0 77 83 83 87 89]
+Iteration number  0 , min , max temp  147.71339674275956 1635.1904915619104 , flux balance  3.006955822583279e-06
+Iteration number  1 , min , max temp  147.7180711804893 1635.181461684227 , flux balance  -9.759635273437649e-10
+In t_start: Converged Solution in iterations  1
+Big iteration is  147.7180711804893 0
+Iteration number  0 , min , max temp  147.59309605410473 1635.108476169654 , flux balance  -5.474925299250778e-07
+ We are already at a root, tolf , test =  5e-05 ,  1.6858877519961098e-05
+Profile converged
+[ 0 76 83 83 87 89]
+Iteration number  0 , min , max temp  147.69016096830413 1633.7379350897047 , flux balance  1.92540716579121e-05
+Iteration number  1 , min , max temp  147.69010580533376 1633.7184684671315 , flux balance  9.903011472851399e-08
+ We are already at a root, tolf , test =  5e-05 ,  1.240278324467506e-06
+Big iteration is  147.69010580533376 0
+Iteration number  0 , min , max temp  147.62093047486385 1633.829695289256 , flux balance  -2.128724476139003e-06
+Iteration number  1 , min , max temp  147.62037080718778 1633.8278657285402 , flux balance  -5.819102794369783e-09
+ We are already at a root, tolf , test =  5e-05 ,  2.0655347626638928e-07
+Profile converged
+[ 0 76 84 84 87 89]
+Iteration number  0 , min , max temp  147.67833257472253 1631.9527015067556 , flux balance  -1.5775990023818246e-06
+Iteration number  1 , min , max temp  147.67827952064036 1631.9435536996345 , flux balance  -6.2203528541013505e-09
+In t_start: Converged Solution in iterations  1
+Big iteration is  147.67827952064036 0
+Iteration number  0 , min , max temp  147.63596443866777 1631.8854704377611 , flux balance  -3.937702101778006e-07
+ We are already at a root, tolf , test =  5e-05 ,  1.168935931916192e-05
+Profile converged
+[ 0 75 84 84 87 89]
+Iteration number  0 , min , max temp  147.6630463953339 1630.9958132679203 , flux balance  -1.0666337309533638e-05
+Iteration number  1 , min , max temp  147.66367421280995 1630.971582697304 , flux balance  -1.2646660925409905e-08
+In t_start: Converged Solution in iterations  1
+Big iteration is  147.66367421280995 0
+Iteration number  0 , min , max temp  147.63472412153823 1631.0776883959963 , flux balance  -2.3644943038517257e-06
+Iteration number  1 , min , max temp  147.63546357926217 1631.07516472065 , flux balance  -9.102949358167183e-09
+In t_start: Converged Solution in iterations  1
+Profile converged
+[ 0 75 85 85 87 89]
+Iteration number  0 , min , max temp  147.66668962525947 1630.3224109397092 , flux balance  -5.584496068181331e-07
+Iteration number  1 , min , max temp  147.6666860131704 1630.3201158919835 , flux balance  -2.447307497672995e-09
+In t_start: Converged Solution in iterations  1
+Big iteration is  147.6666860131704 0
+Iteration number  0 , min , max temp  147.63185504034863 1630.27485569205 , flux balance  -1.294999142301575e-07
+ We are already at a root, tolf , test =  5e-05 ,  4.421716369494082e-06
+Profile converged
+[ 0 74 85 85 87 89]
+Iteration number  0 , min , max temp  147.6666044227309 1630.557300610255 , flux balance  7.644670427877966e-06
+In t_start: Converged Solution in iterations  0
+Big iteration is  147.6666044227309 0
+Iteration number  0 , min , max temp  147.65095201801276 1630.4807435641449 , flux balance  8.820772640067753e-07
+ We are already at a root, tolf , test =  5e-05 ,  2.694753002213929e-05
+Profile converged
+[ 0 74 86 86 87 89]
+Iteration number  0 , min , max temp  147.66397431326016 1631.8635257761114 , flux balance  3.763456867306289e-07
+Iteration number  1 , min , max temp  147.66409867541168 1631.8335495438855 , flux balance  1.6358204083181545e-09
+In t_start: Converged Solution in iterations  1
+Big iteration is  147.66409867541168 0
+Iteration number  0 , min , max temp  147.65057439610456 1631.76801126622 , flux balance  4.70672962984781e-08
+ We are already at a root, tolf , test =  5e-05 ,  1.4403550354168758e-06
+Profile converged
+[ 0 74 89  0 86 89]
+ We are already at a root, tolf , test =  5e-05 ,  1.1957385798064884e-05
+Big iteration is  147.65057439610456 0
+ We are already at a root, tolf , test =  5e-05 ,  1.1957385798064884e-05
+Profile converged
+Grow Phase : Upper Zone
+final [ 0 74 89  0 86 89]
+ We are already at a root, tolf , test =  5e-05 ,  1.1957385798064884e-05
+Big iteration is  147.65057439610456 0
+ We are already at a root, tolf , test =  5e-05 ,  1.1957385798064884e-05
+Profile converged
+YAY ! ENDING WITH CONVERGENCE
+NOTE: You are loading Opacity tables without any Gaseous TiO and VO opacities
+Virga recommended molecules: ['H2O', 'KCl', 'MnS', 'NH3', 'Na2S', 'ZnS']
+Opa_mon dtype <class 'numpy.ndarray'>
